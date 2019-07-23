@@ -6,7 +6,7 @@ rocket game in webgl coded in c# with the Unity Engine
   * Right Thrust: ```D``` or ```'RIGHT' KEY```
   * Left Thrust: ```A``` or ```'LEFT' KEY```
 
-* Debug Controls:
+* Debug Keys:
   * Enable / Disable Collisions: ```C``` **_This will also prevent you from winning._**
   * Reload Level: ```R```
   * Load Previous Level: ```J```
