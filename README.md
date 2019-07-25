@@ -13,4 +13,6 @@ rocket game in webgl coded in c# with the Unity Engine
   * Load Next Level: ```L```
   * Debug Mode: ```P``` **_When enabled, it will load the same level when you die._**
 
-[Open Demo](https://TrevCan.github.io/demoRocketGameudmy/demo_webGL/devBuild/index.html)
+[Open Demo (Developer Version)](https://TrevCan.github.io/demoRocketGameudmy/demo_webGL/devBuild/index.html)
+[Open Demo ('__**Normal Version**__')](https://TrevCan.github.io/demoRocketGameudmy/index.html)
+[Open Demo](https://TrevCan.github.io/demoRocketGameudmy/2/index.html)
